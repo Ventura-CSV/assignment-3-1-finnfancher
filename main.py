@@ -10,7 +10,8 @@ def main():
     Code Your Program here
     ########################################
     """
-
+    if(number1 < number2 and number1 < number3):
+        min_value = number1
     ########################################
     # Do not delete the return statement
     ########################################
