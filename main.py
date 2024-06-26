@@ -14,6 +14,8 @@ def main():
         min_value = number1
     elif(number2 < number1 and number2 < number3):
         min_value = number2
+    else:
+        min_value = number3
 
     ########################################
     # Do not delete the return statement
